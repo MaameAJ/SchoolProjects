@@ -1,0 +1,41 @@
+type = book
+callnumber = QA76.73.J38S265
+title = Absolute Java
+authors = Walter Savitch, Kenrich Mock
+publisher = Addision-Wesley
+year = 2009
+
+type = journal
+callnumber = P98.C6116
+title = Computational Linguistics
+organization = Association for Computational Linguistics
+year = 2008
+
+type = book
+callnumber = QA76.17.A85
+title = Computer
+authors = Paul Atkinson
+publisher = Reaktion
+year = 2010
+
+type = book
+callnumber = TK5105.5.M44
+title = Computer network architectures
+authors = Anton MeijerPaul Peeters
+publisher = Computer Science Press
+year = 1982
+
+type = book
+callnumber = QA76.5.F453
+title = Computer Programming
+authors = Ivan Flores
+publisher = Computer Science Press
+year = 1966
+
+type = book
+callnumber = QA76.C5877
+title = Computer Programming
+authors = C.D.H Cooper
+publisher = J. Murray
+year = 1969
+
